@@ -1,5 +1,5 @@
 {"employees":[
-    {"firstName":"John", "lastName":"Do"},
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
+    {"author":"John", "lastName":"Do"},
+    {"author":"Anna", "lastName":"Smith"},
+    {"author":"Peter", "lastName":"Jones"}
 ]}
