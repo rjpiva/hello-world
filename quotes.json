@@ -1,5 +1,5 @@
-{"quotes":[
-    {"id":"1", "author":"Author1", "quote":"blablabla1", "reference":"blebleble1"},
-    {"id":"2", "author":"Author2", "quote":"blablabla2", "reference":"blebleble2"},
-    {"id":"3", "author":"Author3", "quote":"blablabla3", "reference":"blebleble3"}
+{"employees":[
+    {"firstName":"John", "lastName":"Doe"},
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
 ]}
