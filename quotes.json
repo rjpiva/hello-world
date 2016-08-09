@@ -1,5 +1,5 @@
-{"citations" [
+{"citations": [
     {"firstName":"John", "reference":"This is quote 1"},
     {"firstName":"Anna", "reference":"This is quote 2"},
     {"firstName":"Peter", "reference":"This is quote 3"}
-]
+]}
