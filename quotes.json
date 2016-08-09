@@ -1,5 +1,5 @@
-[
-    {"firstName":"John", "lastName":"This is quote 1"},
-    {"firstName":"Anna", "lastName":"This is quote 2"},
-    {"firstName":"Peter", "lastName":"This is quote 3"}
+{"citations" [
+    {"firstName":"John", "reference":"This is quote 1"},
+    {"firstName":"Anna", "reference":"This is quote 2"},
+    {"firstName":"Peter", "reference":"This is quote 3"}
 ]
