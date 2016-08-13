@@ -1,11 +1,11 @@
 {"citations": [
     {"firstName":"Friedrich Nietzsche", "quote":"Without music, life would be a mistake.", "reference":"Twilight of the Idols"},
-    {"firstName":"Ernest Hemingway", "quote":"“I suppose if a man has something once, always something of it remains.” ", "reference":"For Whom the Bell Tolls"},
+    {"firstName":"Ernest Hemingway", "quote":"I suppose if a man has something once, always something of it remains.", "reference":"For Whom the Bell Tolls"},
     {"firstName":"Sun Tzu", "quote":"The supreme art of war is to subdue the enemy without fighting.", "reference":"The Art of War"},
     {"firstName":"Michio Kaku", "quote":"Physicists are made of atoms. A physicist is an attempt by an atom to understand itself.", "reference":"Parallel Worlds: A Journey Through Creation, Higher Dimensions, and the Future of the Cosmos"},
     {"firstName":"Stephen Hawking", "quote":"An expanding universe does not preclude a creator, but it does place limits on when he might have carried out his job!", "reference":"A Brief History of Time"},
     {"firstName":"Baruch Spinoza", "quote":"The object of the idea constituting the human mind is the body", "reference":"Ethics"},
-    {"firstName":"Fabian", "quote":"This is quote 7", "reference":"ref 7"},
+    {"firstName":"Douglas Adams", "quote":"The Guide says there is an art to flying, said Ford, or rather a knack. The knack lies in learning how to throw yourself at the ground and miss.", "reference":"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)"},
     {"firstName":"Ingrid", "quote":"This is quote 8", "reference":"ref 8"},
     {"firstName":"Alisson", "quote":"This is quote 9", "reference":"ref 9"},
     {"firstName":"Angelina", "quote":"This is quote 10", "reference":"ref 10"}
