@@ -7,6 +7,5 @@
     {"firstName":"Baruch Spinoza", "quote":"The object of the idea constituting the human mind is the body", "reference":"Ethics"},
     {"firstName":"Douglas Adams", "quote":"The Guide says there is an art to flying, said Ford, or rather a knack. The knack lies in learning how to throw yourself at the ground and miss.", "reference":"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)"},
     {"firstName":"Jordan Ellenberg", "quote":"Mathematics is the study of things that come out a certain way because there is no other way they could possibly be", "reference":"How Not to Be Wrong: The Power of Mathematical Thinking"},
-    {"firstName":"Alisson", "quote":"This is quote 9", "reference":"ref 9"},
-    {"firstName":"Angelina", "quote":"This is quote 10", "reference":"ref 10"}
+    {"firstName":"Author Name", "quote":"Quote here", "reference":"reference"}
 ]}
